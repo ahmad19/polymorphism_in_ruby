@@ -1,8 +1,8 @@
 #Decorator interface
 class Parser
-	def parse
+  def parse
     puts 'The parser class recieved the parse method'	 
-	end
+  end
 end
 
 #Decorator XmlParser
